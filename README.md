@@ -8,8 +8,7 @@ I created a website that can be found at [https://mrshoeshoe66.github.io](https:
 
 View the website [here](https://mrshoeshoe66.github.io):
 
-[<button>View Website</button>](https://mrshoeshoe66.github.io)
-
+<a herf="https://mrshoeshoe66.github.io"><button>View Website</button></a>
 # Tools I Use
 
 For most of the time I will use an installed IDE like [VSCode](https://code.visualstudio.com/)
