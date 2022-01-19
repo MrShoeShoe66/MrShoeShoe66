@@ -23,3 +23,4 @@ Mostly I use [Python](https://python.org) but I also [HTML](https://html.com), [
 # My Github Stats 
 
 ![MrShoeShoe66's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShoeShoe66)
+![MrShoeShoe66's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrShoeShoe66)
