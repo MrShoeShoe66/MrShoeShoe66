@@ -27,3 +27,16 @@ Mostly I use [Python](https://python.org) but I also [HTML](https://html.com), [
 
 ![MrShoeShoe66's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrShoeShoe66&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
+# Links
+
+## Github Stats
+
+[Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
+## IDEs
+
+[Replit](https://repl.it) [VSCode](https://code.visualstudio.com/)
+
+## Code languages + Markup languages
+
+[Python](https://python.org) [HTML](https://html.com) [CSS](https://html.com) [Javascript](https://javascript.com/)
