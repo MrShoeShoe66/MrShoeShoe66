@@ -4,11 +4,11 @@ Welcome to my github profile! I hope you enjoy my projects!
 
 # Website
 
-I created a website that can be found at [https://mrshoeshoe66.github.io](https://mrshoeshoe66.github.io)
+I created a website that can be found at [https://mrshoe.is-a.dev](https://mrshoe.is-a.dev)
 
-View the website [here](https://mrshoeshoe66.github.io):
+View the website [here](https://mrshoe.is-a.dev):
 
-[View Website](https://mrshoeshoe66.github.io)
+[View Website](https://mrshoe.is-a.dev)
 
 
 # Tools I Use
