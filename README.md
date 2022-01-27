@@ -1,4 +1,4 @@
-# MrShoeShoe66's Github
+# MrShoe's Github
 
 Welcome to my github profile! I hope you enjoy my projects!
 
@@ -21,11 +21,13 @@ Other times I use [Replit](https://repl.it)
 
 Mostly I use [Python](https://python.org) but I also [HTML](https://html.com), [CSS](https://html.com), and [Javascript](https://javascript.com/)
 
+But im working on learning [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), and [C++](http://www.cplusplus.org/)
+
 # My Github Stats 
 
 ![MrShoeShoe66's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShoeShoe66&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=react)
 
-![MrShoeShoe66's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrShoeShoe66&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![MrShoeShoe66's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrShoeShoe66&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 # Links
 
@@ -39,4 +41,4 @@ Mostly I use [Python](https://python.org) but I also [HTML](https://html.com), [
 
 ## Code languages + Markup languages
 
-[Python](https://python.org) [HTML](https://html.com) [CSS](https://html.com) [Javascript](https://javascript.com/)
+[Python](https://python.org) [HTML](https://html.com) [CSS](https://html.com) [Javascript](https://javascript.com/) [C](https://en.wikipedia.org/wiki/C_(programming_language)) [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) [C++](http://www.cplusplus.org/)
