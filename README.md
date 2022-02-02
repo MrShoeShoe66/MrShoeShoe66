@@ -10,6 +10,5 @@ If you want you can view the groups website at [mrshoe.is-a.dev](https://mrshoe.
 
 # My Github Stats 
 
-![MrShoeShoe66's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShoeShoe66&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=react)
-
-![MrShoeShoe66's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrShoeShoe66&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![MrShoeShoe66's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShoeShoe66&show_icons=true&theme=react)
+![MrShoeShoe66's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrShoeShoe66&show_icons=true&theme=react)
