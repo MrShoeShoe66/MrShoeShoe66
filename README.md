@@ -4,9 +4,7 @@ Hello! welcome to my page!
 
 I am MrShoeShoe66, also know as MrShoe.
 
-There are a few projects ive worked on, but one biger one is my group called [MrShoe Development](https://github.com/MrShoe-Development)!
-
-If you want you can view the groups website at [mrshoe.is-a.dev](https://mrshoe.is-a.dev) soon to be [mrshoe.dev](https://mrshoe.dev)!
+Heres my website: [https://mrshoe.dev](https://www.mrshoe.dev)
 
 # My Github Stats 
 
