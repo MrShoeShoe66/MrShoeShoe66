@@ -6,6 +6,10 @@ I am MrShoeShoe66, also know as MrShoe.
 
 Heres my website: [https://mrshoe.dev](https://www.mrshoe.dev)
 
+# Projects
+
+I am the main (and only) developer for the npm package [elementary-db](https://npmjs.com/elementary-db)
+
 # My Github Stats 
 
 [![MrShoeShoe66's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShoeShoe66&show_icons=true&theme=react)](https://mrshoe.is-a.dev)
