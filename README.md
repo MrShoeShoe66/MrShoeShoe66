@@ -8,7 +8,7 @@ Heres my website: [https://mrshoe.dev](https://www.mrshoe.dev)
 
 # Projects
 
-I am the main (and only) developer for the npm package [elementary-db](https://npmjs.com/elementary-db)
+I am the main (and only) developer for the npm packages [elementary-db](https://npmjs.com/elementary-db), and [elementary-auth](https://npmjs.com/elementary-auth)
 
 # My Github Stats 
 
