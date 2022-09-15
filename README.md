@@ -4,7 +4,7 @@ Hello! welcome to my page!
 
 I am MrShoeShoe66, also know as MrShoe.
 
-Heres my website: [https://mrshoe.dev](https://www.mrshoe.dev)
+Heres my website: [https://mrshoe.dev](https://www.mrshoe.dev), although it's still being developed curently!
 
 # Projects
 
@@ -12,8 +12,8 @@ I am the main (and only) developer for the npm packages [elementary-db](https://
 
 # My Github Stats 
 
-[![MrShoeShoe66's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShoeShoe66&show_icons=true&theme=react)](https://mrshoe.is-a.dev)
-[![MrShoeShoe66's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrShoeShoe66&show_icons=true&theme=react)](https://mrshoe.is-a.dev)
+![MrShoeShoe66's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShoeShoe66&show_icons=true&theme=react)
+![MrShoeShoe66's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrShoeShoe66&show_icons=true&theme=react)
 
 # NOTE
 
