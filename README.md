@@ -21,7 +21,7 @@ I am the main (and only) developer for the npm packages [elementary-db](https://
 <img src="https://github-readme-stats.vercel.app/api?username=MrShoeShoe66&show_icons=true&theme=react&include_all_commits=true&show_icons=true&hide_border=true">
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrShoeShoe66&show_icons=true&theme=react&layout=compact&count_private=true&langs_count=8&hide_border=truedark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrShoeShoe66&show_icons=true&theme=react&count_private=true&langs_count=8&hide_border=truedark">
 
 # NOTE
 
