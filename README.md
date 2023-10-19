@@ -18,6 +18,8 @@ Along with the game I created called [Top Down Traveler](https://github.com/MrSh
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrShoeShoe66&theme=react&hide_border=true">
 
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrShoeShoe66&show_icons=true&theme=react&count_private=true&langs_count=8&hide_border=truedark">
 
 # Contact
