@@ -4,12 +4,26 @@ Hello! welcome to my page!
 
 I am MrShoeShoe66, also know as MrShoe.
 
-Heres my website: [mrshoe.dev](https://www.mrshoe.dev), although it's still being developed curently & might not be online!
+
+I know a number of coing langages and am proficent in
+
+Python, Java, JavaScript, TypeScript, C, C++, C#, Ino, HTML/CSS,
+
+and I've dabled in a few others 
 
 # Projects
 
-I am the main (and only) developer for the npm packages [elementary-db](https://npmjs.com/elementary-db), and [elementary-auth](https://npmjs.com/elementary-auth)
-Along with the game I created called [Top Down Traveler](https://github.com/MrShoeShoe66/TopDownTraveler)
+I Don't have any current projects
+
+## Past projects
+
+A JSON Database system in Node.js (Elementary-DB)
+
+Simple console asci game (Top Down Traveler)
+
+A Discord Bot for a Friend (Noodler Bot)
+
+All of these projects are availble on my Github under repos
 
 # My Github Stats 
 
@@ -17,8 +31,6 @@ Along with the game I created called [Top Down Traveler](https://github.com/MrSh
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrShoeShoe66&theme=react&hide_border=true">
-
-<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrShoeShoe66&show_icons=true&theme=react&count_private=true&langs_count=8&hide_border=truedark">
 
