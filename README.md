@@ -13,7 +13,7 @@ and I've dabled in a few others
 
 # Projects
 
-I Don't have any current projects
+I'm currently experimenting with and learning about rendering and how to use the you to render things
 
 ## Past projects
 
@@ -36,6 +36,9 @@ All of these projects are availble on my Github under repos
 
 # Contact
 
-Here is my EMail: [contact@mrshoe.dev](mailto:contact@mrshoe.dev)
+Here is my EMail: [mrshoeshoe66@gmail.com](mailto:mrshoeshoe66@gmail.com)
+
+Heres my Discord:
+mrshoe_
 
 Have a nice day!
