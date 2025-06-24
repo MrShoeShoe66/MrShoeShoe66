@@ -13,7 +13,7 @@ and I've dabled in a few others
 
 # Projects
 
-I'm currently teaching myself the basics of 3d rendering and am not working on any larger projects currently
+I'm currently teaching myself the basics of 3d rendering and I am not working on any larger projects 
 
 ## Past projects
 
