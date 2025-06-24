@@ -13,7 +13,7 @@ and I've dabled in a few others
 
 # Projects
 
-I'm currently experimenting with and learning about rendering and how to use the you to render things
+I'm currently teaching myself the basics of 3d rendering and am not working on any larger projects currently
 
 ## Past projects
 
