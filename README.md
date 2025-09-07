@@ -1,29 +1,25 @@
 # MrShoe's Github
 
-Hello! welcome to my page!
+Hello! Welcome to my page!
 
 I am MrShoeShoe66, also know as MrShoe.
 
 
-I know a number of coing langages and am proficent in
+I know a number of coding langages and am most proficent in
 
-Python, Java, JavaScript, TypeScript, C, C++, C#, Ino, HTML/CSS,
+Python, Java, JavaScript, TypeScript, C, C++, C#, and HTML/CSS
 
-and I've dabled in a few others 
+although I've dabled in a few others.
+
+I dont update it to often but you can also view my website [__**here**__](https://mrshoe.dev)
 
 # Projects
 
-I'm currently teaching myself the basics of 3d rendering and I am not working on any larger projects 
+I'm currently teaching myself the basics of 3d rendering and I am not working on any larger projects.
 
-## Past projects
+I'm also trying to learn low level systems through designing my own CPU and instruction set.
 
-A JSON Database system in Node.js (Elementary-DB)
-
-Simple console asci game (Top Down Traveler)
-
-A Discord Bot for a Friend (Noodler Bot)
-
-All of these projects are availble on my Github under repos
+Both of these are in very basic states currently so there arn't uploaded yet, but once it get them going I'll upload more information.
 
 # My Github Stats 
 
